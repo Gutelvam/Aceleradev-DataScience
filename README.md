@@ -1,3 +1,4 @@
 # Aceleradev-DataScience
 
-Neste Repositório estará disponível os desafios dos módulos do aceleradev-DataScience da Codenation
+In this repository is available all challenges from all modules of Aceleradev-DataScience program by Codenation
+
