@@ -1,4 +1,7 @@
 # Aceleradev-DataScience
 
-In this repository is available all challenges from all modules of Aceleradev-DataScience program by Codenation
+Challenges Data-Scince
+
+In this repository is available all challenges answers from all modules of Aceleradev-DataScience program released by Codenation
+There are three main concepts to learn, Statistics, Programing (python and libraries like Scikit-learn, pandas, numpy and others) and business understanding.
 
